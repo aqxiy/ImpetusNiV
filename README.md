@@ -24,7 +24,7 @@ btw, angle antennas 15 deg up on left, 15 deg down on right & use 2.4ghz. On lef
 
 Wireless Mode: auto
 
-Stock thermal paste applied such that no dot is at precise centerpoint
+Thermal paste applied such that no dot is at precise centerpoint
 
 ## Audio
 
