@@ -38,7 +38,6 @@ Monitor: AOC U2790VQ OR PHILIPS Brilliance 279P1
 
 https://www.amazon.com/AOC-U2790VQ-3840x2160-Frameless-DisplayPort/dp/B07LBM2DCC
 
-https://www.amazon.com/Philips-279P1-Power-saving-PowerSensor-Replacement/dp/B08KFLY9DQ
 
 Tuning for AOC: Default but (Color Temp.) &Normal& + contrast 49, brightness 47
 
@@ -46,11 +45,9 @@ BENFEI DisplayPort cable
 
 https://www.amazon.com/DisplayPort-Benfei-Gold-Plated-Supports-Compatible/dp/B077BPW8XJ
 
-Alt Monitor for high hz; Acer Nitro XV272U OR ASUS VG27AQ3A
+Alt Monitor for high hz; Acer Nitro XV272U
 
 https://www.amazon.com/gp/product/B09R26XXFW
-
-https://www.amazon.com/ASUS-Gaming-1440P-Monitor-VG27AQ3A/dp/B0BZR9TMBJ
 
 Tuning for ACER: stock
 
