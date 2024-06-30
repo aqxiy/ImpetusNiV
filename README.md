@@ -16,6 +16,16 @@
 
 Btw, angle PC case outward from desk which is to the right of the computer at around 6.5 degrees, probs just 5-10 range but I settled on 6.5. Can check by measuring with ruler or tape and doing inverse tangent. Front of case jutting out maybe .5 - 1 inch. Seems to do better for EMF and thermals. Just my 2 cents with Cooler Master Q300L V2.
 
+GPU config: Default but with below procedure:
+
+GPU Scaling toggled on, Integer Scaling toggled on, Integer Scaling toggled off, PC restarted
+
+btw, angle antennas 15 deg up on left, 15 deg down on right & use 2.4ghz
+
+Wireless Mode: auto but use a 2.4Ghz network
+
+Stock thermal paste applied such that no dot is at precise centerpoint
+
 ## Audio
 
 https://github.com/aqxiy/audioreccs
@@ -23,8 +33,11 @@ https://github.com/aqxiy/audioreccs
 ## Other
 
 SSD: Crucial MX500 on SATA3
+SABRENT SATA III (6 Gbit/s) Straight Data Cable
 
 https://www.amazon.com/gp/product/B078211KBB
+https://www.amazon.com/gp/product/B08FTKSJ47
+
 
 For this product, it is my sincere advice to install Crucial Storage Executive. It sped up overall perf + improved Fortnite experience.
 
@@ -32,7 +45,7 @@ btw, when given a prompt to allow "networks to access" app, click "Cancel".
 crucial.com/support/storage-executive
 
 Proceed to navigate to "Momentum Cache". Enable this.
-SABRENT SATA III (6 Gbit/s) Straight Data Cable
+
 
 https://www.amazon.com/gp/product/B08FTKSJ47
 
@@ -47,23 +60,7 @@ BENFEI DisplayPort cable
 
 https://www.amazon.com/DisplayPort-Benfei-Gold-Plated-Supports-Compatible/dp/B077BPW8XJ
 
-Alt Monitor for high hz; Acer Nitro XV272U
 
-https://www.amazon.com/gp/product/B09R26XXFW
-
-Tuning for ACER: stock
-
-BENFEI DisplayPort cable
-
-https://www.amazon.com/DisplayPort-Benfei-Gold-Plated-Supports-Compatible/dp/B077BPW8XJ
-
-GPU config: Default but with below procedure:
-
-GPU Scaling toggled on, Integer Scaling toggled on, Integer Scaling toggled off, PC restarted
-
-btw, angle antennas 15 deg up on left, 15 deg down on right & use 2.4ghz
-
-Wireless Mode: auto
 
 Cooler Master Q300L V2
 
@@ -77,7 +74,7 @@ Cooler Master Hyper 212 Halo
 
 https://www.amazon.com/Cooler-Master-Aluminum-LGA1700-RR-S4KK-20PA-R1/dp/B0BRBWL38D
 
-Stock thermal paste applied such that no dot is at precise centerpoint
+
 
 PSU
 
