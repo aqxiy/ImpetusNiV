@@ -4,11 +4,9 @@
 
 ## The science is over my head frankly, probably a sweet spot to attaining frequency, multiprocessing, power loading and cache coordination. Try looking at comparison benchmarks with the naked eye - I think this stuff is fascinating.
 
-Btw, angle PC case outward from desk which is to the right of the computer at around 6.5 degrees, probs just 5-10 range but I settled on 6.5. Can check by measuring with ruler or tape and doing inverse tangent. Front of case jutting out maybe .5 - 1 inch.
+## This is the best I've seen a game look, ever:: https://www.youtube.com/clip/UgkxKDJ3zJMNsUiJQhUtrE7qllF51HlaidIR
 
-Seems to do better for EMF and thermals. Just my 2 cents with
-
-Cooler Master Q300L V2
+# Computer build
 
 ### CPU: Intel Core i5 14600KF
 
