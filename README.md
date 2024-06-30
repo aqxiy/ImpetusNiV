@@ -20,7 +20,7 @@ GPU config: Default but with below procedure:
 
 GPU Scaling toggled on, Integer Scaling toggled on, Integer Scaling toggled off, PC restarted
 
-btw, angle antennas 15 deg up on left, 15 deg down on right & use 2.4ghz. On left looking at case front to back. 
+btw, angle antennas 15 deg up on left, 15 deg down on right & use 2.4ghz. On left looking at case front to back. Antennas straight & elbow joint inners facing outward. 
 
 Wireless Mode: auto
 
