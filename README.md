@@ -20,9 +20,9 @@ GPU config: Default but with below procedure:
 
 GPU Scaling toggled on, Integer Scaling toggled on, Integer Scaling toggled off, PC restarted
 
-btw, angle antennas 15 deg up on left, 15 deg down on right & use 2.4ghz
+btw, angle antennas 15 deg up on left, 15 deg down on right & use 2.4ghz. On left looking at case front to back. 
 
-Wireless Mode: auto but use a 2.4Ghz network
+Wireless Mode: auto
 
 Stock thermal paste applied such that no dot is at precise centerpoint
 
