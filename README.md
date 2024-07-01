@@ -49,7 +49,7 @@ Proceed to navigate to "Momentum Cache". Enable this.
 
 https://www.amazon.com/gp/product/B08FTKSJ47
 
-Monitor: AOC U2790VQ OR PHILIPS Brilliance 279P1
+Monitor: AOC U2790VQ
 
 https://www.amazon.com/AOC-U2790VQ-3840x2160-Frameless-DisplayPort/dp/B07LBM2DCC
 
