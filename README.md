@@ -22,9 +22,6 @@ Wireless Mode: auto
 
 Thermal paste applied such that no dot is at precise centerpoint
 
-## Audio
-
-https://github.com/aqxiy/audioreccs
 
 ## Other
 
