@@ -4,11 +4,11 @@
 
 ## The science is over my head frankly, probably a sweet spot to attaining frequency, multiprocessing, power loading and cache coordination. Try looking at comparison benchmarks with the naked eye - I think this stuff is fascinating.
 
-## This is the best I've seen a game look, ever:: https://www.youtube.com/clip/UgkxKDJ3zJMNsUiJQhUtrE7qllF51HlaidIR
+## This is the best I've seen a game look, ever:: https://youtu.be/U30XKEA-wz4
 
 # Computer build
 
-### CPU: Intel Core i5-14600KF
+### CPU: Intel Core i7-14700KF
 
 ### GPU: Nvidia RTX 4060 Ti
 
