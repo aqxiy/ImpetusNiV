@@ -4,13 +4,13 @@
 
 ## The science is over my head frankly, probably a sweet spot to attaining frequency, multiprocessing, power loading and cache coordination. Try looking at comparison benchmarks with the naked eye - I think this stuff is fascinating.
 
-## This is the best I've seen a game look, ever:: https://youtu.be/U30XKEA-wz4
+## This is the best I've seen a game look, ever:: https://www.youtube.com/watch?v=HHu_R9DoUnQ
 
 # Computer build
 
-### CPU: Intel Core i7-14700KF
+### CPU: AMD Ryzen 5 7600
 
-### GPU: Nvidia RTX 4060 Ti
+### GPU: AMD Radeon RX 7700 XT
 
 ## Build advice
 
