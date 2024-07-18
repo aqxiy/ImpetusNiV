@@ -16,7 +16,7 @@
 
 Btw, angle PC case outward from desk which is to the right of the computer at around 6.5 degrees, probs just 5-10 range but I settled on 6.5. Can check by measuring with ruler or tape and doing inverse tangent. Front of case jutting out maybe .5 - 1 inch. Seems to do better for EMF and thermals. Just my 2 cents with Cooler Master Q300L V2.
 
-&, angle antennas 15 deg up on left, 15 deg down on right & use 2.4ghz. On left looking at case front to back. Antennas angled 45 & elbow joint inners facing outward. 
+&, use 2.4ghz && Looking toward rear of case from front, angle left antenna on rotating axis 15-25 degrees up and extended at 45 degree on its hinge. Right antenna has hinge inward, antenna straight with edge parallel to horizon
 
 Wireless Mode: auto
 
