@@ -12,6 +12,9 @@
 
 ### GPU: AMD Radeon RX 7700 XT
 
+### KEY tip: If on 60Hz, follow below procedure:
+AMD GPU fluid rendition hack: enable GPU scaling, enable integer scaling, disable integer scaling, restart PC. All else default.
+
 ## Build advice
 
 Btw, angle PC case outward from desk which is to the right of the computer at around 6.5 degrees, probs just 5-10 range but I settled on 6.5. Can check by measuring with ruler or tape and doing inverse tangent. Front of case jutting out maybe .5 - 1 inch. Seems to do better for EMF and thermals. Just my 2 cents with Cooler Master Q300L V2.
