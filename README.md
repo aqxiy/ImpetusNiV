@@ -102,7 +102,7 @@ PreSonus Eris 3.5
 
 https://www.amazon.com/PreSonus-Eris-3-5-Gen-Studio-Quality/dp/B0C88ZB3D9
 
-Saddle Stool (For further comfort; place Tommy Hilfiger Boxers atop stool such that frontal opening is centered & down && band is slightly over front edge)
+Saddle Stool (For further comfort; place Tommy Hilfiger Boxers (large size) atop stool such that frontal opening is centered & down && band is slightly over front edge)
 
 https://www.amazon.com/gp/product/B07RZZTL6Z
 
