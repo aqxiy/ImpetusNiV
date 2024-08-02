@@ -4,16 +4,13 @@
 
 ## The science is over my head frankly, probably a sweet spot to attaining frequency, multiprocessing, power loading and cache coordination. Try looking at comparison benchmarks with the naked eye - I think this stuff is fascinating.
 
-## This is the best I've seen a game look, ever:: https://www.youtube.com/watch?v=HHu_R9DoUnQ
+## This is the best I've seen a game look, ever:: https://www.youtube.com/watch?v=d6G2syok_Jg
 
 # Computer build
 
-### CPU: AMD Ryzen 5 7600
+### CPU: AMD Ryzen 7 7800X3D
 
-### GPU: AMD Radeon RX 7700 XT
-
-### KEY tip: If on 60Hz, follow below procedure:
-AMD GPU fluid rendition hack: enable GPU scaling, enable integer scaling, disable integer scaling, restart PC. All else default.
+### GPU: Sparkle Intel Arc A770
 
 ## Build advice
 
