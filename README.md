@@ -4,13 +4,12 @@
 
 ## The science is over my head frankly, probably a sweet spot to attaining frequency, multiprocessing, power loading and cache coordination. Try looking at comparison benchmarks with the naked eye - I think this stuff is fascinating.
 
-## This is the best I've seen a game look, ever:: https://www.youtube.com/watch?v=d6G2syok_Jg
+## This is the best I've seen a game look, ever:: https://www.youtube.com/watch?v=HHu_R9DoUnQ
 
 # Computer build
 
-### CPU: AMD Ryzen 7 7800X3D
-
-### GPU: Sparkle Intel Arc A770
+### CPU: AMD Ryzen 5 7600
+### GPU: AMD Radeon RX 7700 XT
 
 ## Build advice
 
